@@ -1,8 +1,8 @@
 ---
 title: PCB (Process Control Block)
 description: 
-published: false
-date: 2025-02-09T12:46:35.174Z
+published: true
+date: 2025-02-09T12:46:49.247Z
 tags: cs
 editor: markdown
 dateCreated: 2025-02-03T13:37:14.220Z
