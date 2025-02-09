@@ -2,13 +2,12 @@
 title: PCB (Process Control Block)
 description: 
 published: true
-date: 2025-02-09T12:46:49.247Z
+date: 2025-02-09T12:48:13.167Z
 tags: cs
 editor: markdown
 dateCreated: 2025-02-03T13:37:14.220Z
 ---
 
-# PCB (Process Control Block)
 **Process Control Block** (이하 PCB)  는 운영 체제가 각 프로세스의 실행 상태와 관련된 모든 정보를 관리하기 위해 사용하는 데이터 구조이다.
 프로세스 관리, 스케줄링, 컨텍스트 스위칭, 자원 할당 등 다양한 운영 체제 기능의 기초가 되며 다중 프로세스 환경에서 각 프로세스의 상태를 추적하고 제어하는 역할을 수행한다.
 
